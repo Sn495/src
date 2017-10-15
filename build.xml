@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <target name="property_setup">
+        <!-- pull in environment variables -->
+        <property environment="env" />
